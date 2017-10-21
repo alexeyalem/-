@@ -1,0 +1,136 @@
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\System.exe.config
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\System.exe
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\System.pdb
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.Video.DirectShow.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.Video.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.Video.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\AForge.Video.DirectShow.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.Form1.resources
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.Properties.Resources.resources
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.csproj.GenerateResource.Cache
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.exe
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.pdb
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\msvcp120.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\msvcr120.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_calib3d2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_contrib2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_core2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_features2d2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_ffmpeg2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_flann2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_gpu2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_highgui2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_imgproc2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_legacy2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_ml2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_nonfree2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_objdetect2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_ocl2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_photo2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_stitching2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_superres2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_video2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x86\opencv_videostab2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\msvcp120.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\msvcr120.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_calib3d2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_contrib2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_core2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_features2d2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_ffmpeg2410_64.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_flann2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_gpu2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_highgui2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_imgproc2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_legacy2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_ml2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_nonfree2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_objdetect2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_ocl2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_photo2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_stitching2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_superres2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_video2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\opencv_videostab2410.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.Blob.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.Extensions.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.UserInterface.dll
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.Blob.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.CPlusPlus.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\bin\Release\OpenCvSharp.Extensions.xml
+D:\Документы\Visual Studio 2013\Projects\System\System\obj\Release\System.csprojResolveAssemblyReference.cache
+D:\System\System\bin\Release\System.exe.config
+D:\System\System\obj\Release\System.exe
+D:\System\System\obj\Release\System.pdb
+D:\System\System\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\System\System\bin\Release\dll\x86\msvcp120.dll
+D:\System\System\bin\Release\dll\x86\msvcr120.dll
+D:\System\System\bin\Release\dll\x86\opencv_calib3d2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_contrib2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_core2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_features2d2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_ffmpeg2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_flann2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_gpu2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_highgui2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_imgproc2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_legacy2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_ml2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_nonfree2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_objdetect2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_ocl2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_photo2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_stitching2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_superres2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_video2410.dll
+D:\System\System\bin\Release\dll\x86\opencv_videostab2410.dll
+D:\System\System\bin\Release\dll\x64\msvcp120.dll
+D:\System\System\bin\Release\dll\x64\msvcr120.dll
+D:\System\System\bin\Release\dll\x64\opencv_calib3d2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_contrib2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_core2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_features2d2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_ffmpeg2410_64.dll
+D:\System\System\bin\Release\dll\x64\opencv_flann2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_gpu2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_highgui2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_imgproc2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_legacy2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_ml2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_nonfree2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_objdetect2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_ocl2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_photo2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_stitching2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_superres2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_video2410.dll
+D:\System\System\bin\Release\dll\x64\opencv_videostab2410.dll
+D:\System\System\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\System\System\bin\Release\System.exe
+D:\System\System\bin\Release\System.pdb
+D:\System\System\bin\Release\AForge.dll
+D:\System\System\bin\Release\AForge.Video.DirectShow.dll
+D:\System\System\bin\Release\AForge.Video.dll
+D:\System\System\bin\Release\OpenCvSharp.Blob.dll
+D:\System\System\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\System\System\bin\Release\OpenCvSharp.dll
+D:\System\System\bin\Release\OpenCvSharp.Extensions.dll
+D:\System\System\bin\Release\OpenCvSharp.UserInterface.dll
+D:\System\System\bin\Release\AForge.xml
+D:\System\System\bin\Release\AForge.Video.xml
+D:\System\System\bin\Release\AForge.Video.DirectShow.xml
+D:\System\System\bin\Release\OpenCvSharp.xml
+D:\System\System\bin\Release\OpenCvSharp.Blob.xml
+D:\System\System\bin\Release\OpenCvSharp.CPlusPlus.xml
+D:\System\System\bin\Release\OpenCvSharp.Extensions.xml
+D:\System\System\obj\Release\System.csprojResolveAssemblyReference.cache
+D:\System\System\obj\Release\System.Form1.resources
+D:\System\System\obj\Release\System.Properties.Resources.resources
+D:\System\System\obj\Release\System.csproj.GenerateResource.Cache
